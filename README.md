@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://academy.patika.dev/courses/git) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
- ![RESİM](![alt text](Kodluyoruz-1.png)
+ ![alt text](Kodluyoruz-1.png)
 
 ## Installation
 
